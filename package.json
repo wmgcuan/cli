@@ -1,0 +1,22 @@
+{
+  "name": "@seahan/cli",
+  "version": "1.0.3",
+  "description": "构建部署",
+  "main": "index.js",
+  "bin": {
+    "ewan": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wmgcuan/cli.git"
+  },
+  "author": "ewan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wmgcuan/cli/issues"
+  },
+  "homepage": "https://github.com/wmgcuan/cli#readme"
+}
