@@ -4,7 +4,7 @@
   "description": "构建部署",
   "main": "index.js",
   "bin": {
-    "ewan": "./index.js"
+    "ewan": "./bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
