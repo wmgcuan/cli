@@ -1,6 +1,7 @@
 # cli
 Cmmand Line Interface
 
+[链接](https://www.imooc.com/article/3156)
 
 ```
 npm install bluebird --save // 实现 Promise 的库
